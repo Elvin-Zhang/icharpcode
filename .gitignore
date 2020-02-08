@@ -3,6 +3,11 @@
 
 /Bridge
 
+#ignore brackets and brackets shell
+
+/brackets
+/brackets-shell
+
 
 
 
