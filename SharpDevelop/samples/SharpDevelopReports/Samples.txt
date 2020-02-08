@@ -1,3 +1,0 @@
-Samples and documentation can be found in the SharpDevelop Reporting repository:
-
-https://github.com/icsharpcode/SharpDevelopReporting/
